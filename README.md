@@ -10,22 +10,7 @@ I am open to Working Student positions, internships, or entry-level roles in Dat
 
 ## Projects
 
-### 1️⃣ [E-Commerce SQL Analysis](https://github.com/Com44/ecommerce-sql-analysis)
-Analyzed sales data from an e-commerce platform using **SQL and Python**, uncovering trends in revenue, top products, and customer behavior.
-
-**Skills Demonstrated:**
-- SQL querying & data aggregation
-- Python for analysis
-- Data visualization using matplotlib
-- Trend detection and business insights
-
-**Sample Charts:**
-![Top Products](charts/top_products.png)
-![Revenue Trends](charts/revenue_trends.png)
-
----
-
-### 2️⃣ [Job Market Analysis Germany](https://github.com/Com44/job-market-analysis-germany)
+### [Job Market Analysis Germany](https://github.com/Com44/job-market-analysis-germany)
 Analyzed job listings in Germany to identify **in-demand skills, top companies, salaries, and locations**.  
 
 **Skills Demonstrated:**
@@ -42,7 +27,7 @@ Analyzed job listings in Germany to identify **in-demand skills, top companies, 
 
 ---
 
-### 3️⃣ [SEO Analytics Pipeline](https://github.com/Com44/seo-analytics-pipeline)
+### [SEO Analytics Pipeline](https://github.com/Com44/seo-analytics-pipeline)
 Built a **full SEO analytics pipeline** to track website performance metrics like clicks, impressions, CTR, and ranking positions.
 
 **Skills Demonstrated:**
@@ -66,6 +51,20 @@ Built a **full SEO analytics pipeline** to track website performance metrics lik
 
 ---
 
+### [E-Commerce SQL Analysis](https://github.com/Com44/ecommerce-sql-analysis)
+Analyzed sales data from an e-commerce platform using **SQL and Python**, uncovering trends in revenue, top products, and customer behavior.
+
+**Skills Demonstrated:**
+- SQL querying & data aggregation
+- Python for analysis
+- Data visualization using matplotlib
+- Trend detection and business insights
+
+**Sample Charts:**
+![Revenue Trends](charts/Chart.png)
+
+---
+
 ## Skills & Tools
 - **Languages:** Python, SQL, Bash
 - **Data Analysis & Visualization:** pandas, matplotlib, seaborn
@@ -82,4 +81,3 @@ Built a **full SEO analytics pipeline** to track website performance metrics lik
 ---
 
 *Feel free to explore my repositories and reach out for collaborations, internships, or mentorship opportunities!*
-
