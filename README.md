@@ -1,4 +1,4 @@
-# Hi, I'm Hassan Akhter 👋
+# Hi, I'm Hassan Akhter 
 
 I'm a **Master’s student in Germany** with 3+ years of international experience in **SEO outreach, link building, and digital marketing**, as well as experience in **data annotation for AI and ML projects**.  
 
